@@ -1,0 +1,11 @@
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.button-float {
+  background-color: #52004f;
+  color: white;
+  border-radius: 25px;
+}
+
